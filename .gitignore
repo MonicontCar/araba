@@ -1,0 +1,8 @@
+venv/
+.DS_Store
+__pycache__/
+*.log
+araba2.pt
+input.mp4
+output.mp4
+runs/
